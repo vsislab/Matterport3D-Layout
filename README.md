@@ -1,6 +1,6 @@
 
 
-[Home](https://YiqunChen1999.github.io)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)| [References](#references) | [Contact Us](#contact-us)|[Liscense](#license)
+[Home](https://YiqunChen1999.github.io)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[References](#references)|[Contact Us](#contact-us)|[Liscense](#license)
 
 
 
@@ -22,7 +22,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Leader Board
 
-Method | e_{pixel} (%) | e_{corner(2D)} (%) | e_{corner(3D)} (%)
+Method | $e_{pixel}$ (%) | $e_{corner(2D)}$ (%) | $e_{corner(3D)}$ (%)
 Ours | 6.73 | 5.04 | 13.76
 
 
