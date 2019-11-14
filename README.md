@@ -28,7 +28,7 @@ Ours | 6.73 | 5.04 | 13.76
 
 # Dataset
 
-### [Download Dataset_1](https://yiqunchen1999.github.io/Dataset_1/)
+### [Download Dataset](https://yiqunchen1999.github.io/Dataset_1/)
 
 Click [Here](https://yiqunchen1999.github.io/Dataset_1/) to download the dataset.
 
