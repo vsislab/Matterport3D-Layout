@@ -8,13 +8,21 @@
 We construct a new [Dataset](#dataset) for layout estimation, which contains pixel-wise depth label for the dominant planes of the room images. Our [dataset](#dataset) uses the indoor images and depth maps from the Matterport3D dataset [1], which has large-scale RGB-D data in indoor scenes. All the images have the resolution of 1024x1280.
 
 The original Matterport3D dataset includes 90 distinct buildings. we randomly split the dataset by the buildings. The training set includes 64 buildings with a total of 4939 images. The validation set includes 6 buildings with 456 images. The testing data includes the rest 20 buildings with a total of 1965 images. The dataset contains the following data field: 
+
 (i) color image; 
+
 (ii) depth map representing the layout; 
+
 (iii) 2D segmentation; 
+
 (iv) original depth map containing indoor objects; 
+
 (v) visible region annotation; 
+
 (vi) intrinsic matrix of the camera; 
+
 (vii) the parameters for each surface; 
+
 (viii) (u,v,Z) coordinates of the layout corners. 
 
 ![Matterport3D](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/image.jpg)
