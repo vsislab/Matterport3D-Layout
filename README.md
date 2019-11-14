@@ -1,8 +1,6 @@
 
 
-[Home](https://YiqunChen1999.github.io)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[References](#references)|[Contact Us](#contact-us)|[Liscense](#license)
-
-
+[Home](https://yiqunchen1999.github.io/Matterport3D_Layout/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[References](#references)|[Contact Us](#contact-us)|[Liscense](#license)
 
 
 # Welcome to Matterport3d Layout Dataset website.
@@ -19,10 +17,11 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 (vii) the parameters for each surface; 
 (viii) (u,v,Z) coordinates of the layout corners. 
 
+[![An old rock in the desert](Matterport3D)](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/image.jpg)
 
 # Leader Board
 
-Method | $e_{pixel}$ (%) | $e_{corner(2D)}$ (%) | $e_{corner(3D)}$ (%)
+Method | error of pixel (%) | error of corner(2D) (%) | error of 3D (%)
 Ours | 6.73 | 5.04 | 13.76
 
 
@@ -53,6 +52,6 @@ Email | <info@vsislab.com>
 
 # License
 
-[MIT Liscence](https://raw.githubusercontent.com/YiqunChen1999/YiqunChen1999.github.io/master/LICENSE.txt)
+[MIT Liscence](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/LICENSE.txt)
 
 Copyright © 2019VSISLab. 
