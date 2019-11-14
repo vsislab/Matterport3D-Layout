@@ -17,7 +17,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 (vii) the parameters for each surface; 
 (viii) (u,v,Z) coordinates of the layout corners. 
 
-[![An old rock in the desert](Matterport3D)](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/image.jpg)
+[!(Matterport3D)](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/image.jpg)
 
 # Leader Board
 
