@@ -29,8 +29,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Leader Board
 
-Method | error of pixel (%) | error of corner(2D) (%) | error of 3D (%) | RMS | REL | log10 | $ \delta < 1.25 $ | $ \delta < {1.25}^2 $ | $ \delta < {1.25}^3 $
--------|--------------------|-------------------------|----------------
+Method | error of pixel (%) | error of corner(2D) (%) | error of 3D (%) | RMS | REL | log10 | $$ \delta < 1.25 $$ | $$ \delta < {1.25}^2 $$ | $$ \delta < {1.25}^3 $$
 **Ours | 5.67 | 4.36 | 13.85 | 0.516 | 0.131 | 0.052 | 0.864 | 0.972 | 0.993 **
 
 
