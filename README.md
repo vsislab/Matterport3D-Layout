@@ -29,25 +29,25 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Leader Board
 
-Method | error of pixel (%) | error of corner(2D) (%) | error of 3D (%)
+Method | error of pixel (%) | error of corner(2D) (%) | error of 3D (%) | RMS | REL | log10 | $ \delta < 1.25 $ | $ \delta < {1.25}^2 $ | $ \delta < {1.25}^3 $
 -------|--------------------|-------------------------|----------------
-**Ours** | 6.73 | 5.04 | 13.76
+**Ours | 5.67 | 4.36 | 13.85 | 0.516 | 0.131 | 0.052 | 0.864 | 0.972 | 0.993 **
 
 
 
 # Dataset
 
-[Trainingset on BaiduNetdisk](https://pan.baidu.com/s/1UOzlB6IKvxM90dXFJk_9zg) with password av17.
+[Training set on BaiduNetdisk](https://pan.baidu.com/s/1UOzlB6IKvxM90dXFJk_9zg) with password av17.
 
-[Testingset on BaiduNetdisk](https://pan.baidu.com/s/1AbbPWaga2NPudP8_a999Lg) with password 4hv4.
+[Testing set on BaiduNetdisk](https://pan.baidu.com/s/1AbbPWaga2NPudP8_a999Lg) with password 4hv4.
 
-[Validationset on BaiduNetdisk](https://pan.baidu.com/s/1LEbVzz0ERYp2jBYuP_uTnA) with password hhqw.
+[Validation set on BaiduNetdisk](https://pan.baidu.com/s/1LEbVzz0ERYp2jBYuP_uTnA) with password hhqw.
 
-[Trainingset on Google Drive](https://drive.google.com/open?id=1k6tFoLpIwj1_vCHYPOSQDbpH4LrTyR8F).
+[Training set on Google Drive](https://drive.google.com/open?id=1k6tFoLpIwj1_vCHYPOSQDbpH4LrTyR8F).
 
-[Testingset on Google Drive](https://drive.google.com/open?id=1xLRAn-9RII-jQ-8WBEF3_xBNP4YgYcva).
+[Testing set on Google Drive](https://drive.google.com/open?id=1xLRAn-9RII-jQ-8WBEF3_xBNP4YgYcva).
 
-[Validation on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
+[Validation set on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
 
 
 # Submit Your Result
