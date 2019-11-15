@@ -53,15 +53,16 @@ Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) 
 
 After you finished your training and predicting your model, you can submit your result with yours by email <info@vsislab.com>. Please note that keep your information correct.
 
-## What to submit
+### What to submit
 A matlab structure containing the following fields:
-- point (u, v, Z) coordinates of the layout corners. u and v are the pixel coordinates with the oringin in the top-left of the image. Z is the depth. 
 
-- layout The room layout segmentation mask.
+- **point** (u, v, Z) coordinates of the layout corners. u and v are the pixel coordinates with the oringin in the top-left of the image. Z is the depth. 
 
-- depth The depth map of the surfaces.
+- **layout** The room layout segmentation mask.
 
-The result should be a single file in HDF5 format(the default format from “save” function in Matlab).
+- **depth** The depth map of the surfaces.
+
+The result should be a single file in HDF5 format (the default format from “save” function in Matlab).
 
 
 # References
