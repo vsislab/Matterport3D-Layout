@@ -1,6 +1,6 @@
 
 
-[Home](https://yiqunchen1999.github.io/Matterport3D_Layout/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[References](#references)|[Contact Us](#contact-us)|[Liscense](#license)
+[Home](https://vsislab.github.io/Matterport3D-Layout/)|[Leader Board](#leader-board)|[Datasets](#dataset)|[Submit Result](#submit-your-result)|[References](#references)|[Contact Us](#contact-us)|[Liscense](#license)
 
 
 # Welcome to Matterport3d Layout Dataset website.
@@ -25,7 +25,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 (viii) (u,v,Z) coordinates of the layout corners. 
 
-![Matterport3D](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/image.jpg)
+![Matterport3D](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/image.jpg)
 
 # Leader Board
 
@@ -60,6 +60,6 @@ Email | <info@vsislab.com>
 
 # License
 
-[MIT Liscence](https://raw.githubusercontent.com/YiqunChen1999/Matterport3D_Layout/master/LICENSE.txt)
+[MIT Liscence](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt)
 
 Copyright © 2019VSISLab. 
