@@ -61,7 +61,7 @@ A matlab structure containing the following fields:
 
 - depth The depth map of the surfaces.
 
-The result should be a single file in HDF5 format.
+The result should be a single file in HDF5 format(the default format from “save” function in Matlab).
 
 
 # References
