@@ -50,6 +50,12 @@ Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) 
 
 [Validation set on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
 
+[Surface normal of the Training set on Google Drive](https://drive.google.com/file/d/1vueD3gwnZQ9XRAmF0OQXKCp9pwW3GrJL/view?usp=sharing).
+
+[Surface normal of the Testing set on Google Drive](https://drive.google.com/file/d/1LhX0VJuLWQ8Ry-n7dmiO3-u-5mecc9Ki/view?usp=sharing).
+
+[Surface normal of the Validation set on Google Drive](https://drive.google.com/file/d/1mKOmM4fekf9ipLvOVgnDBwEeIeFwEuXg/view?usp=sharing).
+
 
 # Submit Your Result
 
