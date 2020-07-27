@@ -54,7 +54,7 @@ Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) 
 
 [Surface normal of the Testing set](https://1drv.ms/u/s!AvnwLMcAl2NUigb6rAUlJdD99RoU?e=p2214j).
 
-[Surface normal of the Validation set](hhttps://1drv.ms/u/s!AvnwLMcAl2NUigVC8rN5HG8zVosC?e=vyQXiF).
+[Surface normal of the Validation set](https://1drv.ms/u/s!AvnwLMcAl2NUigVC8rN5HG8zVosC?e=vyQXiF).
 
 
 # Submit Your Result
