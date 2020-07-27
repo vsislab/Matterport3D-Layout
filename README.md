@@ -9,28 +9,30 @@ We construct a new [Dataset](#dataset) for layout estimation, which contains pix
 
 The original Matterport3D dataset includes 90 distinct buildings. we randomly split the dataset by the buildings. The training set includes 64 buildings with a total of 4939 images. The validation set includes 6 buildings with 456 images. The testing data includes the rest 20 buildings with a total of 1965 images. The dataset contains the following data field: 
 
-(i) color image; 
+(1) Color image;
 
-(ii) depth map representing the layout; 
+(2) Depth map of the planar surfaces;
 
-(iii) 2D segmentation; 
+(3) 2D segmentation of layout;
 
-(iv) original depth map containing indoor objects; 
+(4) Original depth map containing indoor objects;
 
-(v) visible region annotation; 
+(5) Visible region annotation;
 
-(vi) intrinsic matrix of the camera; 
+(6) Intrinsic matrix of the camera;
 
-(vii) the parameters for each surface; 
+(7) Surface parameters for each plane $p$, $q$, $r$;
 
-(viii) (u,v,Z) coordinates of the layout corners. 
+(8) The coordinates of the layout corners $(u,v,Z)$;
+
+(9) Original surface normal.
 
 ![Matterport3D](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/image.jpg)
 
 # Leader Board
 
 Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) | RMS | REL | log10 | &delta;&lt;1.25 | &delta;&lt;1.25<sup>2</sup> | &delta;&lt;1.25<sup>3</sup>
-**Ours** | **5.67** | **4.36** | **13.85** | **0.516** | **0.131** | **0.052** | **0.864** | **0.972** | **0.993**
+**Ours** | **5.24** | **4.36** | **12.82** | **0.456** | **0.111** | **0.047** | **0.892** | **0.975** | **0.994**
 
 
 
@@ -47,6 +49,12 @@ Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) 
 [Testing set on Google Drive](https://drive.google.com/open?id=1xLRAn-9RII-jQ-8WBEF3_xBNP4YgYcva).
 
 [Validation set on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
+
+[Surface normal of the Training set](https://1drv.ms/u/s!AvnwLMcAl2NUigfDUbHWLM-vTw3P?e=etX7Il).
+
+[Surface normal of the Testing set](https://1drv.ms/u/s!AvnwLMcAl2NUigb6rAUlJdD99RoU?e=p2214j).
+
+[Surface normal of the Validation set](https://1drv.ms/u/s!AvnwLMcAl2NUigVC8rN5HG8zVosC?e=vyQXiF).
 
 
 # Submit Your Result
