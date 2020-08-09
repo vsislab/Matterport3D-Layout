@@ -32,6 +32,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 # Leader Board
 
 Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) | RMS | REL | log10 | &delta;&lt;1.25 | &delta;&lt;1.25<sup>2</sup> | &delta;&lt;1.25<sup>3</sup>
+
 **Ours** | **5.24** | **4.36** | **12.82** | **0.456** | **0.111** | **0.047** | **0.892** | **0.975** | **0.994**
 
 
