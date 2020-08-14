@@ -60,7 +60,7 @@ Method | e<sub>pixel</sub>(%) | e<sub>corner</sub>(%) | e<sub>3Dcorner</sub>(%) 
 
 # Submit Your Result
 
-After you finished your training and predicting your model, you can submit your result with yours by email <info@vsislab.com>. Please note that keep your information correct.
+The testing set contains only (1) Color image and (6) Intrinsic matrix of the camera. Please submit your layout estimation result of the testing set to email <info@vsislab.com> or <chluzhre@gmail.com> for performance evaluation. Please note to keep your information correct.
 
 ### What to submit
 A matlab structure containing the following fields:
@@ -80,7 +80,7 @@ The result should be a single file in HDF5 format (the default format from “sa
 
 # Contact Us
 
-Email | <info@vsislab.com>
+Email | <info@vsislab.com><chluzhre@gmail.com>
 
 
 # License
