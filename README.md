@@ -80,7 +80,7 @@ The result should be a single file in HDF5 format (the default format from “sa
 
 # Contact Us
 
-Email | <info@vsislab.com><chluzhre@gmail.com>
+Email | <info@vsislab.com>, <chluzhre@gmail.com>
 
 
 # License
