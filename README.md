@@ -40,9 +40,9 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 
 # Dataset Download
-<p align="justify">
+
 You should first request access to [Matterport3D dataset](https://niessner.github.io/Matterport/) as our dataset is based on Matterport3D. Please fill and sign the [Terms of Use](http://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf) agreement form and send it to matterport3d@googlegroups.com to request access to Matterport3D dataset. If your request is approved, please send us their reply email to get access to our dataset.
-</p>
+
 
 # Submit Your Result
 
