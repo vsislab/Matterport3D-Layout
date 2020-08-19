@@ -71,9 +71,7 @@ Email | <info@vsislab.com>, <chluzhre@gmail.com>, <yindaz@gmail.com>
 
 # License
 
-The original data from Matterport3D dataset is released under [Terms of Use](http://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf)  agreement.
-
-The part of our annotation and generated layout data is under [MIT Liscence](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt)
+The original data from Matterport3D dataset is released under [Terms of Use](http://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf)  agreement. The part of our annotation and generated layout data is under [MIT Liscence](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt).
 
 Copyright © 2019VSISLab. 
 
