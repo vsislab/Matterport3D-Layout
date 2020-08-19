@@ -4,10 +4,11 @@
 
 
 # Welcome to Matterport3d-Layout Dataset website.
-
+<p align="justify">
 We construct a new [Dataset](#dataset) for layout estimation, which contains pixel-wise depth label for the dominant planes of the room images. Our [dataset](#dataset) uses the indoor images and depth maps from the Matterport3D dataset [1], which has large-scale RGB-D data in indoor scenes. All the images have the resolution of 1024x1280.
 
 The original Matterport3D dataset includes 90 distinct buildings. we randomly split the dataset by the buildings. The training set includes 64 buildings with a total of 4939 images. The validation set includes 6 buildings with 456 images. The testing data includes the rest 20 buildings with a total of 1965 images. The dataset contains the following data field: 
+</p>
 
 (1) Color image;
 
@@ -39,8 +40,9 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Dataset Download
 
+<p align="justify">
 You should first request access to [Matterport3D dataset](https://niessner.github.io/Matterport/) as our dataset is based on Matterport3D. Please fill and sign the Terms of Use agreement form and send it to matterport3d@googlegroups.com to request access to Matterport3D dataset. If your request is approved, please send us their reply email to get access to our dataset.
-
+</p>
 
 # Submit Your Result
 
