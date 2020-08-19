@@ -37,9 +37,9 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 
 
-# Dataset
+# Dataset Download
 
-Because our dataset is based on [Matterport3D](https://niessner.github.io/Matterport/) dataset, .  
+Our dataset is based on [Matterport3D dataset](https://niessner.github.io/Matterport/).  you should fill and sign the Terms of Use agreement form and send it to matterport3d@googlegroups.com to request access to Matterport3D dataset. If the 
 
 
 # Submit Your Result
@@ -60,7 +60,7 @@ The result should be a single file in HDF5 format (the default format from “sa
 
 # References
 
-[1] Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Niessner, Manolis Savva, Shuran Song, Andy Zeng, and Yinda Zhang. Matterport3d: Learning from rgb-d data in indoor environments. arXiv preprint arXiv:1709.06158, 2017. 5
+[1] Angel Chang, Angela Dai, Thomas Funkhouser, Maciej Halber, Matthias Niessner, Manolis Savva, Shuran Song, Andy Zeng, and Yinda Zhang. Matterport3d: Learning from rgb-d data in indoor environments. International Conference on 3D Vision (3DV), 2017.
 
 # Contact Us
 
