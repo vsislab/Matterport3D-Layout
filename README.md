@@ -39,7 +39,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Dataset
 
-
+Because our dataset is based on [Matterport3D](https://niessner.github.io/Matterport/) dataset, .  
 
 
 # Submit Your Result
@@ -66,9 +66,3 @@ The result should be a single file in HDF5 format (the default format from “sa
 
 Email | <info@vsislab.com>, <chluzhre@gmail.com>, <yindaz@gmail.com>
 
-
-# License
-
-[MIT Liscence](https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt)
-
-Copyright © 2019VSISLab. 
