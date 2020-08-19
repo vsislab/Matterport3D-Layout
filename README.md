@@ -39,12 +39,12 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Dataset Download
 
-Our dataset is based on [Matterport3D dataset](https://niessner.github.io/Matterport/).  you should fill and sign the Terms of Use agreement form and send it to matterport3d@googlegroups.com to request access to Matterport3D dataset. If the 
+You should first request access to [Matterport3D dataset](https://niessner.github.io/Matterport/) as our dataset is based on Matterport3D. Please fill and sign the Terms of Use agreement form and send it to matterport3d@googlegroups.com to request access to Matterport3D dataset. If your request is approved, please send us their reply email to get access to our dataset.
 
 
 # Submit Your Result
 
-The testing set contains only (1) Color image and (6) Intrinsic matrix of the camera. Please submit your layout estimation result of the testing set to email <info@vsislab.com> or <chluzhre@gmail.com> for performance evaluation. Please note to keep your information correct.
+The testing set contains only (1) Color image and (6) Intrinsic matrix of the camera. Please submit your layout estimation result of the testing set to email <info@vsislab.com> or <chluzhre@gmail.com> for performance evaluation. Please note to keep your information correct. 
 
 ### What to submit
 A matlab structure containing the following fields:
