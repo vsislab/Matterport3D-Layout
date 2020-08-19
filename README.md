@@ -39,23 +39,23 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 # Dataset
 
-[Training set on BaiduNetdisk](https://pan.baidu.com/s/1UOzlB6IKvxM90dXFJk_9zg) with password av17.
+# [Training set on BaiduNetdisk](https://pan.baidu.com/s/1UOzlB6IKvxM90dXFJk_9zg) with password av17.
 
-[Testing set on BaiduNetdisk](https://pan.baidu.com/s/1AbbPWaga2NPudP8_a999Lg) with password 4hv4.
+# [Testing set on BaiduNetdisk](https://pan.baidu.com/s/1AbbPWaga2NPudP8_a999Lg) with password 4hv4.
 
-[Validation set on BaiduNetdisk](https://pan.baidu.com/s/1LEbVzz0ERYp2jBYuP_uTnA) with password hhqw.
+# [Validation set on BaiduNetdisk](https://pan.baidu.com/s/1LEbVzz0ERYp2jBYuP_uTnA) with password hhqw.
 
-[Training set on Google Drive](https://drive.google.com/open?id=1k6tFoLpIwj1_vCHYPOSQDbpH4LrTyR8F).
+# [Training set on Google Drive](https://drive.google.com/open?id=1k6tFoLpIwj1_vCHYPOSQDbpH4LrTyR8F).
 
-[Testing set on Google Drive](https://drive.google.com/open?id=1xLRAn-9RII-jQ-8WBEF3_xBNP4YgYcva).
+# [Testing set on Google Drive](https://drive.google.com/open?id=1xLRAn-9RII-jQ-8WBEF3_xBNP4YgYcva).
 
-[Validation set on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
+# [Validation set on Google Drive](https://drive.google.com/open?id=1uDROzKBaJucNxGpzQeZ3tY4bc50s0rHU).
 
-[Surface normal of the Training set](https://1drv.ms/u/s!AvnwLMcAl2NUigfDUbHWLM-vTw3P?e=etX7Il).
+# [Surface normal of the Training set](https://1drv.ms/u/s!AvnwLMcAl2NUigfDUbHWLM-vTw3P?e=etX7Il).
 
-[Surface normal of the Testing set](https://1drv.ms/u/s!AvnwLMcAl2NUigb6rAUlJdD99RoU?e=p2214j).
+# [Surface normal of the Testing set](https://1drv.ms/u/s!AvnwLMcAl2NUigb6rAUlJdD99RoU?e=p2214j).
 
-[Surface normal of the Validation set](https://1drv.ms/u/s!AvnwLMcAl2NUigVC8rN5HG8zVosC?e=vyQXiF).
+# [Surface normal of the Validation set](https://1drv.ms/u/s!AvnwLMcAl2NUigVC8rN5HG8zVosC?e=vyQXiF).
 
 
 # Submit Your Result
