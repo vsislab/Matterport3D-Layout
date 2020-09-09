@@ -23,7 +23,7 @@ The original Matterport3D dataset includes 90 distinct buildings. we randomly sp
 
 (6) Intrinsic matrix of the camera;
 
-(7) Surface parameters for each plane p, q, r;
+(7) Surface parameters p, q, r for each plane (the pixel coordinates should be normalized between 0 and 1 to calculate the depth maps);
 
 (8) The coordinates of the layout corners (u,v,Z);
 
